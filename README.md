@@ -19,7 +19,7 @@ npm install
 npm start
 ```
 
-## Demo :-[Visit to see the deployed React App](https://pattjoshi.github.io/ "click to open")
+## Demo :-[Visit to see the deployed React App](https://pattjoshi.github.io/portfolio-rj1/ "click to open")
 
 <hr>
 <hr>
@@ -71,3 +71,5 @@ npm run deploy
 
 (It may sometimes sets by default so no need to do it every time)
 <img alt="" src="https://i.imgur.com/HUjEr9l.png">
+
+🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :)
