@@ -1,6 +1,6 @@
 
-
-<img alt="" src="https://github.com/pattjoshi/portfolio-rj1/blob/master/src/images/React(1).png"/>
+### Images: 
+   ![React App](https://github.com/pattjoshi/portfolio-rj1/blob/master/src/images/React(1).png"/)
 
 
 #  <u>React App </u>
@@ -19,7 +19,7 @@ npm install
 npm start
 ```
 
-## Demo :-[Visit to see the deployed React App](https://pattjoshi.github.io/portfolio-rj1/ "click to open")
+## Demo :- [Visit to see the deployed React App](https://pattjoshi.github.io/portfolio-rj1/ "click to open")
 
 <hr>
 <hr>
