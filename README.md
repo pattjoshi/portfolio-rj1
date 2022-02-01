@@ -3,7 +3,7 @@
 <img alt="" src="https://github.com/pattjoshi/portfolio-rj1/blob/master/src/images/React(1).png"/>
 
 
-#  <u> App </u>
+#  <u>React App </u>
 ### How To Use :-
 
 ####    Step 1 :- 
@@ -19,7 +19,7 @@ npm install
 npm start
 ```
 
-## Demo :-[Visit to see the deployed breaking bad app](https://pattjoshi.github.io/ "click to open")
+## Demo :-[Visit to see the deployed React App](https://pattjoshi.github.io/ "click to open")
 
 <hr>
 <hr>
