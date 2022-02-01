@@ -19,12 +19,13 @@ npm install
 npm start
 ```
 
-## Visit to see the deployed breaking bad app
+## Demo :-[Visit to see the deployed breaking bad app](https://pattjoshi.github.io/ "click to open")
 
 <hr>
 <hr>
 
 ##  How to deploy react app using github :-
+
 
 ####    Step 1: Create a repo in github and add your project to the repo as following :-
  ```
