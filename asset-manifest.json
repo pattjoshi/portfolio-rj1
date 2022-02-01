@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-rj1/static/css/main.87d902cd.css",
+    "main.js": "/portfolio-rj1/static/js/main.b26ca08d.js",
+    "static/media/marketing.jpg": "/portfolio-rj1/static/media/marketing.f629aa392c4ff105f747.jpg",
+    "static/media/app.jpeg": "/portfolio-rj1/static/media/app.8714f36598ad2ce812b5.jpeg",
+    "static/media/android.jpeg": "/portfolio-rj1/static/media/android.ee1d95083516dda0d669.jpeg",
+    "static/media/software.jpeg": "/portfolio-rj1/static/media/software.1cb4dc77f9fd741d63f4.jpeg",
+    "static/media/digital.jpeg": "/portfolio-rj1/static/media/digital.dad8270c838055c62dd3.jpeg",
+    "static/media/s1.jpg": "/portfolio-rj1/static/media/s1.8e51e67dff71d6464727.jpg",
+    "static/media/hero-img.png": "/portfolio-rj1/static/media/hero-img.53f1b5467e5095dc4126.png",
+    "static/media/img2.svg": "/portfolio-rj1/static/media/img2.d12e2a271e618bd9bc130b61d3930482.svg",
+    "index.html": "/portfolio-rj1/index.html",
+    "main.87d902cd.css.map": "/portfolio-rj1/static/css/main.87d902cd.css.map",
+    "main.b26ca08d.js.map": "/portfolio-rj1/static/js/main.b26ca08d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d902cd.css",
+    "static/js/main.b26ca08d.js"
+  ]
+}
