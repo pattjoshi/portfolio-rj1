@@ -1,6 +1,6 @@
 
 ### Images: 
-   ![portfolio-rj1](https://github.com/pattjoshi/portfolio-rj1/blob/master/src/images/React(1).png"/)
+   ![portfolio-rj1](https://github.com/pattjoshi/portfolio-rj1/blob/master/src/images/React(1).png)
 
 
 #  <u>React App </u>
