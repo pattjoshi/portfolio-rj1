@@ -18,9 +18,8 @@ npm install
 ```
 npm start
 ```
-
-<hr>
 ## Demo :- [Visit to see the deployed React App](https://pattjoshi.github.io/portfolio-rj1/ "click to open")
+<hr>
 <hr>
 
 ##  How to deploy react app using github :-
